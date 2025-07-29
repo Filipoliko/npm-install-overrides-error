@@ -1,0 +1,13 @@
+{
+  "name": "web",
+  "version": "0.0.0",
+  "dependencies": {
+    "package-a": "1.0.0",
+    "package-b": "1.0.0",
+    "package-c": "1.0.0"
+  },
+  "overrides": {
+    "package-b": "1.0.0",
+    "package-c": "1.0.0"
+  }
+}

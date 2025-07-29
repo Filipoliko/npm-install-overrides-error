@@ -1,0 +1,6 @@
+storage: ./storage
+packages:
+  '**':
+    access: $all
+    publish: $anonymous
+log: { type: stdout, format: pretty, level: http }
